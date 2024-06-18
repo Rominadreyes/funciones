@@ -1,0 +1,21 @@
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100hv;
+    height: 100hv;
+    text-align: center;
+    font-size: 6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#ele1 {
+    transform: translate(0, 40vh);
+    width: 100%;
+}
+
+#ele1:hover {
+    cursor: pointer;
+}
